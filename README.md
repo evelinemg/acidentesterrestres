@@ -12,4 +12,8 @@ Os Dashboards foram apresentados em 2 ferramentas sendo o [Data Studio](https://
 
 Agradeço imensamente aos professores Igor Gondim Soares de Lemos e Bismark William e ao grupo Alyne Cristina Jorge e Silva, Gustavo Santoro, Eveline Marques e Matheus Reis que tornaram a realização desse incrível projeto possível.
 
+### Pastas e Arquivos
 
+<p align="center">
+  <img src="img/g2087.png" />
+</p>
